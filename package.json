@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://goitacademy.github.io/team-project-filmoteka",
+  "homepage": "https://Den1sKruglov.github.io/team-project-filmoteka",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /team-project-filmoteka/"
